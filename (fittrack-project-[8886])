@@ -1,0 +1,11 @@
+git init
+git config user.name
+"Devsrinivas[8886]
+git config user.email
+"srinivas[8886]@massai.edu"
+git add project-info.txt
+git commit -m "feat: initialize fittrack project
+echo -e "\nfeatures:\n\n user authentication\n workout tracking">> project-info.txt
+# 5: bug fix"january 2026" - "february 2026"
+git add project-info.txt
+git commit -m "fix: correct start date"
